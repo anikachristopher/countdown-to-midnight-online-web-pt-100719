@@ -13,3 +13,5 @@ while countdown < 10
  break
 countdown += 1
 end 
+
+puts "HAPPY NEW YEAR"
